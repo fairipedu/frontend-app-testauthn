@@ -1,5 +1,5 @@
 ##################
-frontend-app-authn
+frontend-app-testauthn
 ##################
 
 |Build Status| |ci-badge| |Codecov| |semantic-release|
@@ -35,7 +35,7 @@ This MFE is bundled with `Devstack <https://github.com/openedx/devstack>`_, see 
 
 2. Start up LMS, if it's not already started.
 
-4. Within this project (frontend-app-authn), install requirements and start the development server:
+4. Within this project (frontend-app-testauthn), install requirements and start the development server:
 
    .. code-block::
 
@@ -153,7 +153,7 @@ put together `some documentation that describes our contribution process <https:
 Even though they were written with edx-platform in mind, the guidelines should be followed for Open edX code in general.
 
 PR description template should be automatically applied if you are sending PR from github interface; otherwise you
-can find it it at `PULL_REQUEST_TEMPLATE.md <https://github.com/openedx/frontend-app-authn/blob/master/.github/pull_request_template.md>`_
+can find it it at `PULL_REQUEST_TEMPLATE.md <https://github.com/fairipedu/frontend-app-testauthn/blob/master/.github/pull_request_template.md>`_
 
 This project is currently accepting all types of contributions, bug fixes and security fixes.
 
@@ -171,7 +171,7 @@ channel`_.
 For anything non-trivial, the best path is to open an issue in this repository
 with as many details about the issue you are facing as you can provide.
 
-https://github.com/openedx/frontend-app-authn/issues
+https://github.com/fairipedu/frontend-app-testauthn/issues
 
 For more information about these options, see the `Getting Help`_ page.
 
@@ -206,7 +206,7 @@ License
 The code in this repository is licensed under the GNU Affero General Public License v3.0, unless
 otherwise noted.
 
-Please see `LICENSE <https://github.com/openedx/frontend-app-authn/blob/master/LICENSE>`_ for details.
+Please see `LICENSE <https://github.com/fairipedu/frontend-app-testauthn/blob/master/LICENSE>`_ for details.
 
 
 ==============================
